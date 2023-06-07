@@ -1,0 +1,4 @@
+name: TestPlugin
+version: '${project.version}'
+main: fi.mclisko.testplugin.TestPlugin
+api-version: 1.19
